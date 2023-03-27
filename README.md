@@ -32,6 +32,7 @@ I'm a highly skilled and experienced tech professional with a passion for progra
 
 ## 📫 How to reach me
 
+- Page: [cezarvasconcelos.com.br](https://cezarvasconcelos.com.br)
 - Email: [cezarvasconcelos.dev@gmail.com](mailto:cezarvasconcelos.dev@gmail.com)
 - LinkedIn: [Cezar Vasconcelos](https://www.linkedin.com/in/cezarvasconcelos)
 - Phone/What's App: [+5551997285829](https://wa.me/+5551997285829)
