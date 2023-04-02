@@ -7,6 +7,9 @@ I'm a highly skilled and experienced tech professional with a passion for progra
 
 ![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasconceloscezar&show_icons=true&theme=radical)
 
+
+![Cezar's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vasconceloscezar&stroke=ffffff&background=0E1217&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vasconceloscezar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
