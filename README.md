@@ -1,21 +1,15 @@
 # Hi there, I'm Cezar 👋
 
+I've been involved in tech since my childhood and have always enjoyed following my curiosity around new and diverse subjects. I've worked as a full-stack developer and have always been intrigued by Machine Learning and AI. However, my interest was purely out of curiosity. After the LLM boom in 2022, I began delving deeper into understanding how LLMs work and how they can be equipped with tools and abilities to assist us.
 
-I'm a highly skilled and experienced tech professional with a passion for programming and tech in general. I have a strong background in JavaScript, SQL, NodeJs, React, MongoDB, and Java, and I'm always looking for new opportunities to expand my skills and make a positive impact in the tech industry.
+I am now the CTO at Namastex Labs. Here, we are pioneering ways to enhance the capabilities of LLMs with the goal of giving people more time.
 
-## 📈 GitHub Stats
 
 ![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasconceloscezar&show_icons=true&theme=radical)
 
-
 ![Cezar's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vasconceloscezar&stroke=ffffff&background=0E1217&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vasconceloscezar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🔧 Technologies & Tools
-
+![](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +21,6 @@ I'm a highly skilled and experienced tech professional with a passion for progra
 ![](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/CI/CD-%23C7D4F5.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/PostHog-%231D3557.svg?style=for-the-badge&logo=posthog&logoColor=white)
