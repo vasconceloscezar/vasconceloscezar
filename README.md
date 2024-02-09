@@ -29,7 +29,5 @@ I am now the CTO at Namastex Labs. Here, we are pioneering ways to enhance the c
 ## 📫 How to reach me
 
 - Page: [cezarvasconcelos.com.br](https://cezarvasconcelos.com.br)
-- Email: [cezarvasconcelos.dev@gmail.com](mailto:cezarvasconcelos.dev@gmail.com)
 - LinkedIn: [Cezar Vasconcelos](https://www.linkedin.com/in/cezarvasconcelos)
-- Phone/What's App: [+5551997285829](https://wa.me/+5551997285829)
 
