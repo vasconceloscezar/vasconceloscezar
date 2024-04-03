@@ -5,9 +5,7 @@ I've been involved in tech since my childhood and have always enjoyed following 
 I am now the CTO at Namastex Labs. Here, we are pioneering ways to enhance the capabilities of LLMs with the goal of giving people more time.
 
 
-![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasconceloscezar&show_icons=true&theme=radical)
-
-![Cezar's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vasconceloscezar&stroke=ffffff&background=0E1217&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
+![Cezar's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vasconceloscezar&stroke=ffffff&background=0E1217&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff&mode=weekly&card_width=1080)
 
 ![](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
