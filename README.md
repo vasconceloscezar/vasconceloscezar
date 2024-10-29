@@ -26,6 +26,5 @@ I am now the CTO at Namastex Labs. Here, we are pioneering ways to enhance the c
 
 ## 📫 How to reach me
 
-- Page: [cezarvasconcelos.com.br](https://cezarvasconcelos.com.br)
 - LinkedIn: [Cezar Vasconcelos](https://www.linkedin.com/in/cezarvasconcelos)
 
