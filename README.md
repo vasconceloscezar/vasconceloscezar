@@ -1,8 +1,8 @@
 # Hi there, I'm Cezar 👋
 
-I've been involved in tech since my childhood and have always enjoyed following my curiosity around new and diverse subjects. I've worked as a full-stack developer and have always been intrigued by Machine Learning and AI. However, my interest was purely out of curiosity. After the LLM boom in 2022, I began delving deeper into understanding how LLMs work and how they can be equipped with tools and abilities to assist us.
+I've been involved in tech since my childhood and have always enjoyed following my curiosity around new and diverse subjects; 
 
-I am now the CTO at Namastex Labs. Here, we are pioneering ways to enhance the capabilities of LLMs with the goal of giving people more time.
+With the Gen AI boom I've became obssessed with it and now I'm CTO at Namastex Labs, were we are finding pioneering ways to enhance the capabilities of LLMs with the goal of enhancing human potential.
 
 
 ![Cezar's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vasconceloscezar&stroke=ffffff&background=0E1217&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff&mode=weekly&card_width=1080)
@@ -24,7 +24,4 @@ I am now the CTO at Namastex Labs. Here, we are pioneering ways to enhance the c
 ![](https://img.shields.io/badge/PostHog-%231D3557.svg?style=for-the-badge&logo=posthog&logoColor=white)
 
 
-## 📫 How to reach me
-
 - LinkedIn: [Cezar Vasconcelos](https://www.linkedin.com/in/cezarvasconcelos)
-
