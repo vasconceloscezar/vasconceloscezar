@@ -2,8 +2,9 @@
 
 I've been involved in tech since my childhood and have always enjoyed following my curiosity around new and diverse subjects; 
 
-With the Gen AI boom I've became obssessed with it and now I'm CTO at Namastex Labs, were we are finding pioneering ways to enhance the capabilities of LLMs with the goal of enhancing human potential.
+With the Gen AI boom I've became obssessed with it and now I'm CTO at [Namastex Labs](namastex.ai), were we are developing open source tools and finding pioneering ways to enhance the capabilities of LLMs with the goal of enhancing human potential.
 
+Join [Namastex Discord](https://discord.gg/xcW8c7fF3R)!
 
 ![Cezar's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=vasconceloscezar&stroke=ffffff&background=0E1217&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff&mode=weekly&card_width=1080)
 
