@@ -2,7 +2,7 @@
 
 I've been involved in tech since my childhood and have always enjoyed following my curiosity around new and diverse subjects; 
 
-With the Gen AI boom I've became obssessed with it and now I'm CTO at [Namastex Labs](namastex.ai), were we are developing open source tools and finding pioneering ways to enhance the capabilities of LLMs with the goal of enhancing human potential.
+With the Gen AI boom I've became obssessed with it and now I'm CTO at [Namastex Labs](namastex.ai), where we are developing open source tools and finding pioneering ways to enhance the capabilities of LLMs with the goal of enhancing human potential.
 
 Join [Namastex Discord](https://discord.gg/xcW8c7fF3R)!
 
