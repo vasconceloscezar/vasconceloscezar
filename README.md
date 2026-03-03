@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,100:161b22&height=220&section=header&text=Cezar%20Vasconcelos&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=CTO%20%40%20Namastex%20Labs%20%E2%80%A2%20AI%20Engineer&descAlignY=54&descSize=17&descColor=c4b5fd&animation=twinkling" width="100%"/>
 
-Co-founder & CTO at **[Namastex Labs](https://namastex.ai)**. I work on AI agents, pipelines, and the infrastructure that keeps them running in production. Based in Venâncio Aires, RS.
+Co-founder & CTO at **[Namastex Labs](https://namastex.ai)**. I work on AI agents, pipelines, and the infrastructure that keeps them running in production. Based in Brazil.
 
 ---
 
