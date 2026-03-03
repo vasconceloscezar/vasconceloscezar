@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A9FEF7,141321&height=200&section=header&text=Cezar%20Vasconcelos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%40%20Namastex%20Labs%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=160&section=header&text=Cezar%20Vasconcelos&fontSize=40&fontColor=a9fef7&fontAlignY=40&desc=CTO%20%40%20Namastex%20Labs%20%E2%80%A2%20AI%20Engineer&descAlignY=60&descSize=16&descColor=8b949e" width="100%"/>
 
 I build the infrastructure. Multi-agent systems, omnichannel platforms, data pipelines — the pieces that need to actually run in production, not just in demos.
 
-Co-founder & CTO at **[Namastex Labs](https://namastex.ai)**. Currently shipping the **[Automagik Suite](https://github.com/namastexlabs)** and **personal-etl**, my life OS built entirely on agents.
+Co-founder & CTO at **[Namastex Labs](https://namastex.ai)**. Currently shipping the **Automagik Suite** and **personal-etl**, my life OS built entirely on agents.
 
 *If it doesn't ship, it doesn't count.*
 
@@ -12,9 +10,11 @@ Co-founder & CTO at **[Namastex Labs](https://namastex.ai)**. Currently shipping
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasconceloscezar&show_icons=true&bg_color=141321&title_color=a9fef7&text_color=ffffff&icon_color=fe428e&border_color=30363d&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vasconceloscezar&theme=github_dark" height="165"/>
 &nbsp;
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasconceloscezar&background=141321&ring=a9fef7&fire=fe428e&currStreakNum=ffffff&dates=8b959e&sideNums=ffffff&sideLabels=a9fef7&currStreakLabel=a9fef7)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasconceloscezar&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=vasconceloscezar&theme=dark&background=161b22&ring=a9fef7&fire=fe428e&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a9fef7&currStreakLabel=a9fef7&dates=8b949e&border=30363d" height="165"/>
 
 </div>
 
@@ -22,43 +22,77 @@ Co-founder & CTO at **[Namastex Labs](https://namastex.ai)**. Currently shipping
 
 ### What I Ship
 
-<div align="center">
-
-[![automagik-genie](https://github-readme-stats.vercel.app/api/pin/?username=namastexlabs&repo=automagik-genie&bg_color=141321&title_color=a9fef7&text_color=ffffff&icon_color=fe428e&border_color=30363d)](https://github.com/namastexlabs/automagik-genie)
-&nbsp;
-[![forge](https://github-readme-stats.vercel.app/api/pin/?username=automagik-dev&repo=forge&bg_color=141321&title_color=a9fef7&text_color=ffffff&icon_color=fe428e&border_color=30363d)](https://github.com/automagik-dev/forge)
-
-[![omni](https://github-readme-stats.vercel.app/api/pin/?username=automagik-dev&repo=omni&bg_color=141321&title_color=a9fef7&text_color=ffffff&icon_color=fe428e&border_color=30363d)](https://github.com/automagik-dev/omni)
-&nbsp;
-[![pgserve](https://github-readme-stats.vercel.app/api/pin/?username=namastexlabs&repo=pgserve&bg_color=141321&title_color=a9fef7&text_color=ffffff&icon_color=fe428e&border_color=30363d)](https://github.com/namastexlabs/pgserve)
-
-🔒 **personal-etl** — my personal life OS. CRM, finance, calendar, email, WhatsApp — unified, queryable, agent-ready.
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/namastexlabs/automagik-genie">automagik-genie</a></b>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/namastexlabs/automagik-genie?style=flat-square&color=a9fef7&labelColor=161b22&logo=github&logoColor=a9fef7"/>
+      <br/>
+      <sub>Bootstrap, update, and roll back AI agent workspaces with a single CLI + MCP toolkit.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/automagik-dev/forge">forge</a></b>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/automagik-dev/forge?style=flat-square&color=a9fef7&labelColor=161b22&logo=github&logoColor=a9fef7"/>
+      <br/>
+      <sub>Visual multi-agent orchestration kanban for production AI pipelines.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/automagik-dev/omni">omni</a></b>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/automagik-dev/omni?style=flat-square&color=a9fef7&labelColor=161b22&logo=github&logoColor=a9fef7"/>
+      <br/>
+      <sub>Universal omnichannel messaging platform. WhatsApp, Discord, Slack, Telegram — one API.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🔒 personal-etl</b>
+      <br/>
+      <sub>My personal life OS — CRM, finance, calendar, email, WhatsApp. All agent-ready.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Stack
 
-| | |
-|---|---|
-| **Languages** | Python · TypeScript · Go · Rust · Bash |
-| **AI / Agents** | Claude · MCP · Agno · Pydantic AI · OpenAI · Google AI · LangFlow |
-| **Backend** | FastAPI · PostgreSQL · Pydantic · SQLite |
-| **Frontend** | Next.js · React · Tailwind |
-| **Infra** | Docker · Bun · Cloudflare |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+&nbsp;
+![Claude](https://img.shields.io/badge/Claude-8E75B2?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-161b22?style=flat-square&logo=moleculer&logoColor=a9fef7)
+![Agno](https://img.shields.io/badge/Agno-161b22?style=flat-square&logo=python&logoColor=a9fef7)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LangFlow](https://img.shields.io/badge/LangFlow-161b22?style=flat-square&logo=probot&logoColor=fe428e)
+&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</div>
 
 ---
 
-### Activity
-
 <div align="center">
 
-[![Namastex Labs](https://img.shields.io/badge/🔬_Namastex_Labs-58+_repos-a9fef7?style=flat-square&labelColor=141321)](https://github.com/namastexlabs)
+[![Namastex Labs](https://img.shields.io/badge/namastexlabs-58+%20repos-a9fef7?style=flat-square&logo=github&labelColor=161b22)](https://github.com/namastexlabs)
 &nbsp;
-[![Automagik](https://img.shields.io/badge/⚡_Automagik-280+_stars-fe428e?style=flat-square&labelColor=141321)](https://github.com/automagik-dev)
-&nbsp;
-[![Commits](https://img.shields.io/badge/📊_2024--2026-shipping_daily-ae81ff?style=flat-square&labelColor=141321)](https://github.com/vasconceloscezar)
+[![Automagik](https://img.shields.io/badge/automagik--dev-280+%20stars-fe428e?style=flat-square&logo=github&labelColor=161b22)](https://github.com/automagik-dev)
 
 <sub>Most of my work lives at <a href="https://github.com/namastexlabs">github.com/namastexlabs</a></sub>
 
@@ -66,30 +100,16 @@ Co-founder & CTO at **[Namastex Labs](https://namastex.ai)**. Currently shipping
 
 ---
 
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasconceloscezar/vasconceloscezar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasconceloscezar/vasconceloscezar/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/vasconceloscezar/vasconceloscezar/output/github-snake.svg" />
-</picture>
-
----
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/namastex.ai-141321?style=flat-square&logo=safari&logoColor=a9fef7)](https://namastex.ai)
+[![Website](https://img.shields.io/badge/namastex.ai-161b22?style=flat-square&logo=safari&logoColor=a9fef7)](https://namastex.ai)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezarvasconcelos)
 &nbsp;
-[![GitHub Org](https://img.shields.io/badge/namastexlabs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/namastexlabs)
+[![GitHub](https://img.shields.io/badge/namastexlabs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/namastexlabs)
 &nbsp;
-[![Email](https://img.shields.io/badge/cezar@namastex.ai-141321?style=flat-square&logo=gmail&logoColor=a9fef7)](mailto:cezar@namastex.ai)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=vasconceloscezar&color=a9fef7&style=flat-square&label=profile+views)
+[![Email](https://img.shields.io/badge/cezar@namastex.ai-161b22?style=flat-square&logo=gmail&logoColor=a9fef7)](mailto:cezar@namastex.ai)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=vasconceloscezar&color=a9fef7&style=flat-square&label=views)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=141321,A9FEF7&height=120&section=footer" width="100%"/>
