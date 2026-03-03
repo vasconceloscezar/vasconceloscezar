@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,100:161b22&height=200&section=header&text=Cezar%20Vasconcelos&fontSize=42&fontColor=c4b5fd&fontAlignY=45&desc=CTO%20%40%20Namastex%20Labs%20%E2%80%A2%20AI%20Engineer&descAlignY=65&descSize=17&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,100:161b22&height=220&section=header&text=Cezar%20Vasconcelos&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=CTO%20%40%20Namastex%20Labs%20%E2%80%A2%20AI%20Engineer&descAlignY=54&descSize=17&descColor=c4b5fd&animation=twinkling" width="100%"/>
 
 I build the infrastructure. Multi-agent systems, omnichannel platforms, data pipelines — the pieces that need to actually run in production, not just in demos.
 
